@@ -1,6 +1,7 @@
 .idea/*
 src/test/*
 target/*
+out/*
 
 *.war
 *.jar
